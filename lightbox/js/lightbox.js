@@ -163,6 +163,10 @@ var lightbox = {
 }
 
 window.onload = function () {
-	var l = Object.create(lightbox);
+	try {
+		var l = Object.create(lightbox);
 	l.setUp();
+		} catch (exception) {
+		console.log('Error creating menus. In all likelihood your browser is out of date.\r\n', exception, '\r\n', navigator.userAgent);
+	}
 }
