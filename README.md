@@ -1,5 +1,12 @@
 # Lightbox
-A simple, lightweight Lightbox script, using pure JavaScript, no frameworks required.
+
+> A simple, lightweight Lightbox script, using pure JavaScript, no frameworks required.
+> 
+> A Remi A Olsen Production :D
+> remi@remiolsen.info / https://remiolsen.info
+> 
+> This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License:
+> https://creativecommons.org/licenses/by-nc/4.0/
 
 To run, simply add these lines within the head tag:
 
